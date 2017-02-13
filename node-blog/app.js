@@ -58,4 +58,4 @@ res.render('post', {
 
 app.listen(8080)
 
-console.log('listinging on port 8080')
+console.log('listening on port 8080')
